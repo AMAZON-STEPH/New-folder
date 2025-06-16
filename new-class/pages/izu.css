@@ -1,0 +1,39 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: ;
+}
+.box{
+  width:222vh;
+  height:222vh;
+  background-color:purple;
+  padding:10px;
+display: flex;
+
+}
+.content1{
+  width:150px;
+  height:150px;
+  background-color: yellow;
+}
+.content1:hover text1{
+  display:none;
+}
+.content2{
+  width:150px;
+  height:150px;
+  background-color: green;
+  
+}
+.content2 text2{
+  display:none
+}
+.content1:hover + .content2 text2{
+  display:initial;
+}
+
+
+
+
+
+  

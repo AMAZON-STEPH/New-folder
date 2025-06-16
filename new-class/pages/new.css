@@ -1,0 +1,48 @@
+
+
+.div{
+  justify-content: space-between;
+  height: 4em;
+  display:inline-block;
+  max-width: 100%;
+  border: solid;
+  padding: 20px;
+}
+
+  .frontend{
+    font-family: tahoma;
+font-size: small;
+background-color:black;
+color:white;
+margin-left:7em;
+border-radius: 56px;
+padding-bottom: 5em;
+padding-top: 11em;
+padding-left:18em ;
+padding-right: 10em;
+width: 14em;
+}
+.fb{
+  border-radius: 999px;
+  height: 3em;
+}
+.ins{
+border-radius: 999px;
+  height: 3em;
+
+}
+.tw{
+  
+border-radius: 999px;
+  height: 3em;
+}
+.so{
+  position: absolute; 
+width: 22em;
+height: 25em;
+animation: moveleft 3s linear forwards;
+right: 64em;
+top: 3em;
+border-radius: 30px ;
+
+}

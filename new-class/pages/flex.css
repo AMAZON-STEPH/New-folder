@@ -1,0 +1,137 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.image1{
+  height: 3em;
+  width: 3em;
+  border-radius: 999px;
+}
+
+.name{
+  font-family: arial;
+}
+.description{
+  color: gray;
+  font-family: arial;
+  font-size: 14px;
+}
+
+.followbutton{
+  border: none;
+  color: white;
+  font-family: arial;
+  font-size: 18px;
+  background-color: blue;
+  padding-left:2em ;
+  padding-right:2em;
+  padding-top: 9px;
+  padding-bottom:9px ;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: opacity-0.15s;
+}
+.followbutton:hover{
+ opacity: 0.8;
+}
+.followbutton:active{
+  opacity: 0.4;
+}
+
+.image2{
+  height: 3em;
+  width: 3em;
+  border-radius: 999px;
+}
+
+.name2{
+  font-family: arial;
+  
+}
+.description2{
+  color: gray;
+  font-family: arial;
+  font-size: 14px;
+}
+
+.followbutton2{
+  border: none;
+  color: white;
+  font-family: arial;
+  font-size: 18px;
+  background-color: blue;
+  padding-left:2em ;
+  padding-right:2em;
+  padding-top: 9px;
+  padding-bottom:9px ;
+  border-radius: 5px;
+   transition: opacity-0.15s;
+}
+.followbutton2:hover{
+ opacity: 0.8;
+}
+.followbutton2:active{
+  opacity: 0.4;
+
+}
+
+.image3{
+  height: 3em;
+  width: 3em;
+  border-radius: 999px;
+}
+
+.name3{
+  font-family: arial;
+}
+.description3{
+  color: gray;
+  font-family: arial;
+  font-size: 14px;
+}
+
+.followbutton3{
+  border: none;
+  color: white;
+  font-family: arial;
+  font-size: 18px;
+  background-color: blue;
+  padding-left:2em ;
+  padding-right:2em;
+  padding-top: 9px;
+  padding-bottom:9px ;
+  border-radius: 5px;
+  transition: opacity-0.15s;
+}
+.followbutton3:hover{
+ opacity: 0.8;
+}
+.followbutton3:active{
+  opacity: 0.4;
+
+}
+.user{
+  display: flex;
+  justify-content: space-between;
+}
+.userInfo{
+  width: 40%;
+  display: flex;
+  align-items: center;
+  gap: 50px;
+}
+.container{
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}

@@ -1,0 +1,163 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+  .div{
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  height: 3em;
+}
+.features{
+  background-color: white;
+  color: black;
+  border-radius: 30px;
+  border: none;
+  height: 30px;
+  box-shadow: 1px 1px 1px;
+  margin-left: 20em;
+  cursor: pointer;
+  padding-left: 7px;
+  padding-right: 7px;
+
+}
+.articles{
+ background-color:white;
+  color: black;
+  border-radius: 30px;
+  border: none;
+  height: 30px;
+box-shadow: 1px 1px 1px;
+margin-left:2em ;
+cursor: pointer;
+padding-left: 7px;
+padding-right: 7px;
+
+}
+.testimonials{
+background-color: white;
+  color: black;
+  border-radius: 30px;
+  border: none;
+  height: 30px;
+  box-shadow: 1px 1px 1px;
+  margin-left: 2em;
+  padding-left: 7px;
+  padding-right: 7px;
+
+
+}
+.about{
+  background-color: white;
+  color: black;
+  border-radius: 30px;
+  border: none;
+  height: 30px;
+  box-shadow: 1px 1px 1px;
+  margin-left: 2em;
+  cursor: pointer;
+  padding-left: 7px;
+  padding-right: 7px;
+
+}
+.contact{
+background-color:white;
+  color: black;
+  border-radius: 30px;
+  border: none;
+  height: 30px;
+box-shadow: 1px 1px 1px;
+margin-left: 2em;
+cursor: pointer;
+padding-left: 7px;
+padding-right: 7px;
+}
+.reserve{
+background-color:white;
+  color: black;
+  border-radius: 30px;
+  height: 30px;
+  margin-left: 11em;
+  cursor: pointer;
+  margin-right: 2em;
+padding-left: 7px;
+padding-right: 7px;
+
+}
+.welcome{
+font-family: arial;
+font-size: 6em;
+color:navy;
+margin-left:2em;
+padding-left: 7px;
+padding-right: 7px;
+
+}
+.flash{
+  font-family: arial;
+color:navy;
+text-align:center;
+margin-left:2em ;
+
+}
+.describtion{
+  font-family: helvetica;
+  margin-right: 5em;
+  margin-bottom:9em;
+  font-size: large;
+  color: navy;
+
+  
+
+}
+.bye{
+  font-family: arial;
+  font-size: small;
+  margin-top:2em;
+  margin-left: 60em;
+  line-height: 2em;
+  color: grey;
+
+
+}
+.flashco{
+color:navy;
+background-color: white;
+border: none;
+font-family: arial;
+font-size: large;
+border-radius: 3px;
+font-weight: bold;
+margin-left: 2em;
+}
+.image{
+position: relative;
+height: 6em;
+width: 6em;
+margin-left: 55em;
+border-radius: 3px;
+
+}
+.src{
+border-radius: 9999px;
+margin-left: 60em;
+height: 2em;
+
+}
+
+.google{
+border-radius:999px ;
+margin-left: 
+
+}
+.hand{
+  border: none;
+  height: 15em;
+  width:30em;
+  margin-left: 20em;
+}
+
+

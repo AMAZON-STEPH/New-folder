@@ -1,0 +1,161 @@
+*{
+
+}
+
+.all{
+display:flex;
+flex-direction: row;
+}
+
+.user1{
+  background-color: beige;
+
+}
+.profile1{
+  height: 11em;
+  width: 10em;
+
+}
+.name1{
+font-family: georgia;
+font-size: medium;
+
+}
+.friends1{
+border-radius: 9999px;
+width: 2em;
+height: 2em;
+
+
+}
+
+.status1{
+  color: grey;
+  font-family: georgia;
+  font-size:1em;
+
+}
+.mutual1{
+  display: flex;
+
+}
+.button1{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 8px;
+  padding-right: 8px;
+  background-color: rgb(0, 42, 255);
+  border-radius: 3px;
+  color:white;
+  border:none;
+  transition: opacity- 0.15s; 
+}
+.button1:hover{
+  opacity: 0.5;
+}
+.button1:active{
+  opacity: 0.9;
+}
+
+.user2{
+  margin-left: 2em;
+  background-color: beige;
+
+
+}
+.profile2{
+  height: 11em;
+  width:10em;
+
+}
+.name2{
+  color: black;
+font-family: georgia;
+font-size: medium;
+}
+.friends2{
+  border-radius: 9999px;
+height: 2em;
+width: 2em;
+}
+
+.status2{
+  font-family: georgia;
+  font-size: medium;
+  color: grey;
+
+}
+.mutual2{
+display: flex;
+}
+.button2{
+  color: white;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  background-color: rgb(0, 42, 255);
+  border-radius: 3px;
+  border: none;
+  transition: opacity- 0.15;
+}
+.button2:hover{
+  opacity:0.5;
+}
+
+.button2:active{
+  opacity:0.9;
+}
+
+.user3{
+margin-left: 2em;
+background-color: beige;
+}
+.profile3{
+height: 11em;
+width:10em;
+
+}
+.name3{
+  color:black;
+  font-family: georgia;
+  font-size: medium;
+
+}
+.friends3{
+  border-radius: 9999px;
+  height: 2em;
+  width: 2em;
+
+
+}
+
+.status3{
+  font-family: georgia;
+  font-size: medium;
+color: grey;
+margin-left: 1em;
+}
+.mutual3{
+  display: flex;
+
+}
+.button3{
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  border-radius: 3px;
+  color: white;
+  border:none;
+  background-color: rgb(0, 42, 255);
+  border-radius: 3px;
+  transition: opacity- 0.17s;
+
+}
+.button3:hover{
+  opacity: 0.5;
+}
+.button3:active{
+  opacity:0.8;
+}

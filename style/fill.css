@@ -1,0 +1,30 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  display: flex;
+  left: 2em;
+  align-items: center;
+  justify-content: center;
+  
+}
+.form-content{
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(55, 122, 190);
+  height: 100vh;
+  width: 30em;
+  border-radius: 30px;
+  display: flex;
+
+}
+.fill{
+  size: 2em;
+}
+.fill::placeholder{
+  font-family:arial ;
+  font-size: xx-large;
+
+}

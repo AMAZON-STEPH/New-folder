@@ -1,0 +1,47 @@
+*{
+margin-top:0;
+padding:0;
+}
+
+  body{
+margin-top:20em;
+padding: 34em;
+  }
+
+  main{
+    margin-top:20em;
+    padding:34em;
+    text-align: center;
+    justify-content: space-around;
+}
+
+div{
+  margin-top: 20em;
+  padding: 34em;
+  text-align: center;
+  justify-content:space-around;
+  
+
+  
+
+
+
+  first-child {
+    &::after
+
+
+  }
+  nthchild(2){}
+  nthchild(3){}
+  nthchild(4){}
+  nthchild(5){}
+  nthchild(6){}
+  nthchild(7){}
+
+
+
+
+}
+
+
+
