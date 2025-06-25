@@ -66,6 +66,7 @@ input::placeholder{
   width: 20em;
   padding-top: 3em;
 }
+
 .studysmarter{
   background-color: rgb(113, 46, 46);
   color:white;
@@ -74,11 +75,8 @@ input::placeholder{
   padding-left: 11px;
   width: 17em;
   font-family: serif;
-  
 }
-.smarter{
-  text-decoration:;
-}
+
 .studyguide{
   background-color: rgb(205, 26, 26);
   color:white;
@@ -88,8 +86,6 @@ input::placeholder{
   width: 17em;
   font-family: serif;
 }
-
-
 
 .smarter{
   font-family:  Helvetica;

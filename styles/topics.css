@@ -20,7 +20,6 @@ body{
   width: 30%;
 }
 .name1{
-  font-family: ;
   font-size: 3em;
   text-align: left;
   color: brown;
@@ -85,9 +84,7 @@ input::placeholder{
   font-family: serif;
   
 }
-.smarter{
-  text-decoration:;
-}
+
 .studyguide{
   background-color: rgb(205, 26, 26);
   color:white;
